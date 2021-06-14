@@ -1,0 +1,41 @@
+body{
+   
+    background: url("images/mountains-6318080_1920.jpg") no-repeat;
+    
+}
+.registration-form{
+    width: 300px;
+    padding: 30px;
+    text-align: center;
+    background: rgba(0,0,0,0.5);
+    margin-left: 35%;
+    margin-top: 10%;
+}
+
+.registration-form img{
+    width: 50%;
+    height: 50%;
+}
+
+.registration-form input{
+    display: block;
+    width: 96%;
+    padding-left: 10px;
+    height: 44px;
+    border: none;  
+}
+.txt{
+    margin: 20px 0px;
+}
+.btn{
+    margin-top: 60px;
+    margin-bottom: 20px;
+    background: #487eb0;
+    color: white;
+    border-radius: 40px;
+    cursor: pointer;
+}
+
+.btn:hover{
+   color:navy;
+}
